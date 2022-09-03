@@ -31,7 +31,7 @@ NO2WE=sys.argv[6]
 # Import Adafruit IO REST client.
 from Adafruit_IO import Client, Feed
 
-ADAFRUIT_IO_KEY = 'aio_aZZJ93oLXn7pS3X1kj66RSFSEfqV'
+ADAFRUIT_IO_KEY = 'aio_zSzo19CDSDiy3sm09v2kp5y8yCD6'
 ADAFRUIT_IO_USERNAME = 'PECSCU'
 
 # Create an instance of the REST client.
